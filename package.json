@@ -1,0 +1,27 @@
+{
+  "name": "second_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "eslint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rlvictor/js_secondTask.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rlvictor/js_secondTask/issues"
+  },
+  "homepage": "https://github.com/rlvictor/js_secondTask#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "eslint-config-prettier": "^9.0.0",
+    "eslint-plugin-prettier": "^5.0.1",
+    "eslint-plugin-unicorn": "^49.0.0",
+    "prettier": "^3.1.0"
+  }
+}
